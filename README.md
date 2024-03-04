@@ -1,4 +1,4 @@
-/* Vinidata Assessment */
+# Vinidata Assessment
 
 Implemented using Python
 
